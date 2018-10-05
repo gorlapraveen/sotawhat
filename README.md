@@ -70,9 +70,9 @@ We've found that this script works well with keywords that are:
          
          
 
-**Example Command:** 
+**Example Command:** `arxiv agriculture 10` 
 
-`arxiv agriculture 10` : Results in top `10` updates of `arxiv` repositories containing `agriculture` in abstract. 
+Results in top `10` updates of `arxiv` repositories containing `agriculture` in abstract. 
 
 
 Note:// This Script is initailly forked adapted form https://github.com/chiphuyen/sotawhat @chiphuyen
