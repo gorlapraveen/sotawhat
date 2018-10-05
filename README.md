@@ -60,12 +60,14 @@ We've found that this script works well with keywords that are:
 - *  from the terminal, run `./globalinstall.sh`. 
 - - *  This will install all ther required packages( No need to install all the other packages as prescribed in the previous section).
 - - *  You can simply access `arxiv daily updates` etc from any part of your Linux system.
+- 
 ** Example usage : ** In your terminal
 
            `arxiv any_word number_of_results` 
            
          `any_word` : Replace this word with your choice
          `Number_of_reslut`: Number of results you need, `ex : 10`
+         
          
 ** Example Command:** `arxiv agriculture 10`     
 
