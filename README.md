@@ -58,7 +58,7 @@ We've found that this script works well with keywords that are:
 - * From your linux termianl, Clone this git repository
 - * After cloning, move into this repository local directory in the terminal
 - *  from the terminal, run `./globalinstall.sh`. 
-- - *  This will install all ther required packages( No need to install all the other packages as prescribed in the previous section).
+- - *  This will install all the required packages( No need to install all the other packages as prescribed in the previous section).
 - - *  You can simply access `arxiv daily updates` etc from any part of your Linux system.
 
 **Example usage :** In your terminal
