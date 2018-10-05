@@ -1,5 +1,6 @@
 #!/bin/bash
-echo 'Please wait while we phrase the requested information -------- '
+echo 'Please wait while we phrase the requested information from global arxiv servers -------- '
+echo ' '
 a=$1
 b=$2
 c=5
