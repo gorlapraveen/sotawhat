@@ -51,3 +51,6 @@ We've found that this script works well with keywords that are:
 + a task (e.g. 'language model', 'machine translation', 'fuzzing', ...)
 + a metric (e.g. BLEU, perplexity, ...)
 + random stuff
+
+
+Note:// This Script is initailly forked adapted form https://github.com/chiphuyen/sotawhat @chiphuyen
