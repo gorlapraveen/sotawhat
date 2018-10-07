@@ -1,5 +1,5 @@
 #!/bin/bash
-echo 'Please wait while we phrase the requested information from global arxiv servers -------- '
+echo 'Please wait while we phrase the requested information from global arxiv servers[arxiv.org : Cornell University Library ] -------- '
 echo ' '
 a=$1
 b=$2
