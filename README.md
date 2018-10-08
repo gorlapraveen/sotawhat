@@ -75,4 +75,6 @@ We've found that this script works well with keywords that are:
 Results in top `10` updates of `arxiv` repositories containing `agriculture` in abstract. 
 
 
+**Other Packages** : Exclusive Debain(`.deb`) package is available at [Debian/Salsa](https://salsa.debian.org/gorlapraveen-guest/arxivdailydebianpackage) Git repository.
+
 Note:// This Script is initailly forked adapted form https://github.com/chiphuyen/sotawhat @chiphuyen
