@@ -1,4 +1,5 @@
 #!/bin/bash
+bash -c "figlet Arxiv Search"
 echo 'Please wait while we phrase the requested information from global arxiv servers[arxiv.org : Cornell University Library ] -------- '
 echo ' '
 a=$1

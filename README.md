@@ -77,4 +77,7 @@ Results in top `10` updates of `arxiv` repositories containing `agriculture` in 
 
 **Other Packages** : Exclusive Debain(`.deb`) package is available at [Debian/Salsa](https://salsa.debian.org/gorlapraveen-guest/arxivdailydebianpackage) Git repository.
 
-Note:// This Script is initailly forked adapted form https://github.com/chiphuyen/sotawhat @chiphuyen
+
+**Adaptations:**
+Note: Debian Packages and Shell script automation is done by  @gorlapraveen, after forking and adapting  arxive-python phrase script from https://github.com/chiphuyen/sotawhat @chiphuyen
+

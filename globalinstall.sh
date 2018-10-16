@@ -1,6 +1,7 @@
 #!/bin/bash
 #Installimg the sotawhat(axiv daily) for the Linux based global installation.
 bash -c "sudo pip3 install -r requirements.txt"
+bash -c "sudo apt install figlet toilet"
 python3 requirements.py
 sudo chmod +x sotawhat.sh
 sudo chmod +X sotawhat.py
